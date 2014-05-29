@@ -7,6 +7,8 @@ public class Runner {
 		System.out.println("second println");
 		
 		System.out.println("another sysout");
+		
+		System.out.println("commit in remote");
 	}
 	
 }
